@@ -6,6 +6,7 @@
 
 # 1. GDD
 - 벡터 이미지를 포함한 씬플로우 구조도와 함께 보는 UI디자인
+- [더크리퍼 GDD문서](https://docs.google.com/document/d/14-AjrrCFEzgH7kyySRljV4BETSIuFcjwLoL7DDIHbTM/edit?usp=sharing)
 # 2. 세계관과 스토리
 - 매트로바이나 장르의 플래포머 게임의 초반 스테이지 설계
 # 3. 시나리오와 스토리보드
@@ -22,3 +23,10 @@
 - 게임 내 상품과 재화를 교환하는 공공거래 시스템을 주관하는 곳의 디자인</br>
 # 9. UI
 - 게임 내 상품과 재화를 교환하는 공공거래 시스템을 주관하는 곳의 디자인</br>
+
+
+
+
+
+
+
