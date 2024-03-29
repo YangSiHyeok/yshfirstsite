@@ -5,7 +5,7 @@
 -----
 
 # 1. GDD
-- [더크리퍼 GDD문서](https://drive.google.com/file/d/1YjcNHR4ezk3_gLmSjmKj9IwLmTSzueRF/view?usp=sharing)
+- [더크리퍼 GDD문서](https://docs.google.com/document/d/14-AjrrCFEzgH7kyySRljV4BETSIuFcjwLoL7DDIHbTM/edit?usp=sharing)
 # 2. 세계관과 스토리
 - 더 크리퍼 내 세계관과 스토리 문서
 # 3. 시나리오
@@ -22,16 +22,8 @@
 - 더 크리퍼 내 UI 정리 문서
 
 
-개인 프로젝트 : 콥즈
-=====
-2.5D 이소매트릭뷰 캐주얼 어드벤처 게임
------
 
-#1. 개발제안서
-- 게임개요, 시나리오 및 세계관, 게임플레이, 캐릭터, 아이템, 스킬, 스테이지, UI, BM, 일정 초안 작업
-  
-#2. 세계관과 시나리오
-- 갈등구조 세력을 포함한 시나리오 문서
-- [콥즈 시나리오 문서] _ [게임콘셉트기획_포트폴리오_[양시혁].pdf](https://github.com/YangSiHyeok/yshfirstsite/files/14801966/_._.pdf)
+
+
 
 
